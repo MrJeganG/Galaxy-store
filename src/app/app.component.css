@@ -1,0 +1,125 @@
+.h1{
+    font-family: Poppins;
+}
+.button {
+    border-radius :35%;
+}
+.main{
+    width:23.33%;
+}
+.gif{
+    display: -webkit-inline-box;
+    margin: auto;
+    width: 23.33%;
+    padding: 7px;
+}
+.button {
+    background-color: grey;
+    border: none;
+    color: white;
+    padding: 9px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+  .button1 {
+    border-radius: 12px;
+    width: 16%;
+    margin: 2%;
+}
+.button2 {
+    border-radius: 12px;
+    width: 16%;
+    margin: 3%;
+}
+.body{
+    background-color: brown;
+}
+@media only screen and (max-width: 768px) {
+    .h1{
+        font-family: Poppins;
+    }
+    .button {
+        border-radius :35%;
+    }
+    .main{
+        width:23.33%;
+    }
+    .gif{
+        display: -webkit-inline-box;
+        margin: auto;
+        width: 23.33%;
+        padding: 7px;
+    }
+    .button {
+        background-color: grey;
+        border: none;
+        color: white;
+        padding: 9px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin: 4px 2px;
+        cursor: pointer;
+      }
+      .button1 {
+        border-radius: 12px;
+        width: 16%;
+        margin: 2%;
+    }
+    .button2 {
+        border-radius: 12px;
+        width: 16%;
+        margin: 3%;
+    }
+    .body{
+        background-color: brown;
+    }
+}
+@media only screen and (max-width: 400px) {
+    .h1{
+        font-family: Poppins;
+        position: fixed;
+    }
+    .button {
+        border-radius :35%;
+    }
+    .main{
+        width:23.33%;
+    }
+    .gif{
+        display: -webkit-inline-box;
+        margin: auto;
+        width: 23.33%;
+        padding: 7px;
+    }
+    .button {
+        background-color: grey;
+        border: none;
+        color: white;
+        padding: 9px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin: 4px 2px;
+        cursor: pointer;
+      }
+      .button1 {
+        border-radius: 12px;
+        width: 16%;
+        margin: 2%;
+    }
+    .button2 {
+        border-radius: 12px;
+        width: 16%;
+        margin: 3%;
+    }
+    .body{
+        background-color: brown;
+    }
+}
